@@ -8,3 +8,5 @@ the app through user interactions. Functionalities like editing text should be s
 have experience in the bootcamp and TDD course. In addition to that, this project will involve the
 uploading of images as well from the device the app operates on which will be a bit different than 
 what I have worked on previously so that may require some research to get down that functionality.
+
+Test
